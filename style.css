@@ -1,0 +1,13 @@
+.bold {
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%
+}
+
+table {
+    margin: 0 auto;
+    max-width: 50%
+}
+
